@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h3>
 <div align="center">
-<p align="center">My name is Dawid, I am student at Zespół Szkół Elektronicznych i Informatycznych w Sosnowcu</p>
+<p align="center">My name is Dawid, I am a final year student at Zespół Szkół Elektronicznych i Informatycznych w Sosnowcu</p>
 </div>
 <hr>
 
@@ -40,18 +40,18 @@
   </tr>
   <tr>
     <td>
-    <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=FFFFFF" alt="PHP logo" title="PHP" height="25" /></span>
-    </td>
-    <td>
-    <span><img src="https://img.shields.io/badge/Symfony-282C34?logo=symfony&logoColor=FFFFFF" alt="Symfony logo" title="Symfony" height="25" /></span>
-    </td>
-  </tr>
-  <tr>
-    <td>
     <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
     </td>
     <td>
     <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=E34F26" alt="React logo" title="React" height="25" /></span>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=FFFFFF" alt="PHP logo" title="PHP" height="25" /></span>
+    </td>
+    <td>
+    <span><img src="https://img.shields.io/badge/Symfony-282C34?logo=symfony&logoColor=FFFFFF" alt="Symfony logo" title="Symfony" height="25" /></span>
     </td>
   </tr>
 </table>
