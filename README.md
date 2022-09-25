@@ -46,14 +46,6 @@
     <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=E34F26" alt="React logo" title="React" height="25" /></span>
     </td>
   </tr>
-  <tr>
-    <td>
-    <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=FFFFFF" alt="PHP logo" title="PHP" height="25" /></span>
-    </td>
-    <td>
-    <span><img src="https://img.shields.io/badge/Symfony-282C34?logo=symfony&logoColor=FFFFFF" alt="Symfony logo" title="Symfony" height="25" /></span>
-    </td>
-  </tr>
 </table>
 
 <hr>
