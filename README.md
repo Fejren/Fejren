@@ -32,18 +32,18 @@
 <table align="center">
   <tr>
     <td>
-    <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFFFFF" alt="Python logo" title="Python" height="25" /></span>
+    <span><img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" /></span>
     </td>
     <td>
-    <span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=FFFFFF" alt="Python logo" title="Django" height="25" /></span>
+    <span><img src="https://img.shields.io/badge/Django-282C34?logo=django" alt="Python logo" title="Django" height="25" /></span>
     </td>
   </tr>
   <tr>
     <td>
-    <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+    <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" /></span>
     </td>
     <td>
-    <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=E34F26" alt="React logo" title="React" height="25" /></span>
+    <span><img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="25" /></span>
     </td>
   </tr>
 </table>
