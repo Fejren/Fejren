@@ -3,7 +3,7 @@
     Welcome to my profile
 </h3>
 <div align="center">
-<p align="center">My name is Dawid, I am a final year student at Zespół Szkół Elektronicznych i Informatycznych w Sosnowcu</p>
+<p align="center">My name is Dawid, I am a final year student at "Zespół Szkół Elektronicznych i Informatycznych w Sosnowcu"</p>
 </div>
 <hr>
 
@@ -21,41 +21,5 @@
         <td><a href="https://www.linkedin.com/in/dawid-zar%C4%99ba-2b1b45211"/><img src="https://img.shields.io/badge/LinkedIn_Dawid_Zaręba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
 </table>
-
-<hr>
-
-<h3 align="center">
-    I can write code in:
-</h3>
-
-<table align="center">
-  <tr>
-    <td>
-    <span><img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" /></span>
-    </td>
-    <td>
-    <span><img src="https://img.shields.io/badge/Django-282C34?logo=django" alt="Python logo" title="Django" height="25" /></span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-    </td>
-    <td>
-    <span><img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="25" /></span>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<h4 align="center">
-    OS
-</h4>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Windows-54487A?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-AB2B28?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
 
 <hr>
