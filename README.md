@@ -14,7 +14,7 @@
 <table align="center">
     <tr>
         <td>Email: </td>
-        <td><a class="underline" href="mailto:dawid.zareba.dev@gmail.com"><img src="https://img.shields.io/badge/Mail:dawid.zareba03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
+        <td><a class="underline" href="mailto:dawid.zareba.dev@gmail.com"><img src="https://img.shields.io/badge/Mail:dawid.zareba.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
     </tr>
     <tr>
         <td>Linkedin: </td>
