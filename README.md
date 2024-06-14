@@ -3,7 +3,7 @@
     Welcome to my profile
 </h3>
 <div align="center">
-<p align="center">My name is Dawid, I am a graduate of ZSEII in Sosnowiec. <br> I have earned a technician's degree in computer science. Now I have started studying at The Silesian University of Technology <br>Currently working as Junior Python Developer</p>
+<p align="center">My name is Dawid - Python Developer
 </div>
 <hr>
 
