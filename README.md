@@ -3,7 +3,7 @@
     Welcome to my profile
 </h3>
 <div align="center">
-<p align="center">My name is Dawid, working as Python Developer
+<p align="center">My name is Dawid, I work as Python Developer
 </div>
 <hr>
 
